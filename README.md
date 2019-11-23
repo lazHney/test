@@ -87,3 +87,6 @@ push();
 |Tst|KD2.0|K1000|
 |Tst2|KD0.5|K1600|
 
+## staging branch Test
+- Git の ブランチにステージングを追加
+- ステージングブランチにpushのテスト
